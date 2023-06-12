@@ -7,3 +7,5 @@
   <a class="myprofile" href="https://github.com/uGuih/" target="_self">My Profile</a>
   
   ##
+
+![Snake animation](https://github.com/uGuih/uGuih/blob/output/github-contribution-grid-snake.svg)
