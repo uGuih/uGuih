@@ -7,6 +7,6 @@
 - 🌱 No momento estou me aperfeiçoando em Desenvolvimento Web
 - 🚀 Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades
 - 📫 Entre em contato no email: guilhermeexpedito365@gmail.com
-- 📲 Ou entre em contato comigo via WhatsApp <a class="mywpp" href="https://wa.me/5511957594253" target="_bank"> clicando aqui </a>
+- 📲 Ou entre em contato comigo via WhatsApp <a class="mywpp" href="https://wa.me/5511957594253" target="_bank" rel="noopener noreferrer"> clicando aqui </a>
 
   <a class="myprofile" href="https://github.com/uGuih/" target="_self">Meu perfil</a>
